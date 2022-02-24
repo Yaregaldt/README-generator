@@ -5,9 +5,7 @@ const inquirer = require('inquirer');
 // require internal module
 const generateMarkdown = require('./util/generateMarkdown.js');
 
-
 // user question for readme file input
-
 
 const questions = () => {
     return inquirer.prompt([
