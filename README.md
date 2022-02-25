@@ -34,4 +34,4 @@
   npm test
   
   ## Questions
-  If you have any questions about this projects, please contact me directly at dyaregal@gmail.com. You can view more of my projects at https://github.com/yaregaldt.
+  If you have any questions about this projects, please contact me directly at dyaregal@gmail.com. Click [HERE](https://github.com/yaregaldt) to view my deployed applications.
