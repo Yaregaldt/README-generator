@@ -33,8 +33,5 @@ const generateMarkdown = data => {
   If you have any questions about this projects, please contact me directly at ${data.email}. You can view more of my projects at https://github.com/${data.github}.
 `;
 }
-  
-  
-  
-  // use for importing Markdown in index 
+      
   module.exports = generateMarkdown;
